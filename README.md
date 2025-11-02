@@ -16,33 +16,33 @@ the simulation runs out of funding (bankruptcy).
 
 ## Starting condition:
 # Table Min 
-    Minimum bet for one hand
+Minimum bet for one hand
 
 # Table Max
-    Maximum bet for one hand
+Maximum bet for one hand
 
 # Budget
-    The starting amount of money the simulation have
+The starting amount of money the simulation have
 
 # Speed
-    The number of hands per hour
+The number of hands per hour
 
 # Card counting
-    (choose from a list of counting technique)
-    The card counting system to use
+(choose from a list of counting technique)
+The card counting system to use
 
 # Shoe Size
-    How many deck of cards are being used
+How many deck of cards are being used
 
 ## Results:
-    The Simulation display the following information
+The Simulation display the following information
 
 # Profit rate
-    Net profit divided by total playtime
-    Unit: $/hour
+Net profit divided by total playtime
+Unit: $/hour
 
 # Risk Of Ruin
-    number of backruptcy/ total simulated
+number of backruptcy/ total simulated
 
 ## Graph
-    Show the player a graph of one trial.
+Show the player a graph of one trial.
